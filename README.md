@@ -21,5 +21,5 @@ Obs: This code is not intended to reproduce the experiments of the original pape
 ## Dependencies
 - Python 3.x
 - keras (1.0.9 or higher)
-- TensorFlow or Theano
+- **TensorFlow** or Theano
 - Jupyter Notebook
